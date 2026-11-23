@@ -1,0 +1,6 @@
+{
+  "name": "Kahoot Classroom Quiz",
+  "description": "เกมตอบคำถามสไตล์ Kahoot สำหรับนักศึกษา พร้อมลงทะเบียน สร้างโปรไฟล์อวตาร เล่นเกม 5 ข้อ ข้อละ 20 วินาที สรุปอันดับ และส่งออกข้อมูลเป็นไฟล์ CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
